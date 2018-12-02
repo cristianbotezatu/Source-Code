@@ -4,5 +4,6 @@ x = 4
 #this line stores 5 in y variable
 y = 5
 
-#this line results in error
-a = 3(x+y)
+#there was no operator after 3
+#multiplification of the summation of x and y
+a = 3*(x+y)

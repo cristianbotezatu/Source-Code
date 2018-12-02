@@ -7,3 +7,6 @@ y = 5
 #there was no operator after 3
 #multiplification of the summation of x and y
 a = 3*(x+y)
+
+#this line prints a
+print(a)

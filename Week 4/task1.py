@@ -10,3 +10,6 @@ pi = x
 
 #this statement saves the area using the x and radius variables
 area = pi * radius ** 2
+
+#printing area
+print(area)
